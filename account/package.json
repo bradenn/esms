@@ -1,0 +1,19 @@
+{
+  "name": "es-account",
+  "version": "1.0.0",
+  "description": "accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradenn/esms.git"
+  },
+  "author": "Braden Nicholson",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bradenn/esms/issues"
+  },
+  "homepage": "https://github.com/bradenn/esms#readme"
+}
